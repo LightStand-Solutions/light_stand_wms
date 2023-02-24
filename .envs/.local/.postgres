@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=light_stand_wms
+POSTGRES_USER=pjNShItiXhTYnTKEgLHbMNXUKrNYNMkd
+POSTGRES_PASSWORD=HPDJ6mP6UTHj1AB8nOai9819yVLYu38vlfVEiEAE7gAopsjLT6OGf2EmM2zAl3mK
